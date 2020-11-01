@@ -1,0 +1,26 @@
+{
+    "people": [
+        {
+            "firstName": "Russ",
+            "lastName": "Carey",
+            "hairColor": "Auburn",
+            "age": 41,
+            "pets": [
+                "Dog1",
+                "Dog2"
+            ],
+            "isMarried": true
+        },
+        {
+            "firstName": "Brandi",
+            "lastName": "Carey",
+            "hairColor": "Brown",
+            "age": 42,
+            "pets": [
+                "Dog1",
+                "Dog2"
+            ],
+            "isMarried": true
+        }
+    ]
+}
