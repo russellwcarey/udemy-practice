@@ -6,8 +6,8 @@
             "hairColor": "Auburn",
             "age": 41,
             "pets": [
-                "Dog1",
-                "Dog2"
+                "Dog",
+                "Bunny"
             ],
             "isMarried": true
         },
@@ -17,8 +17,8 @@
             "hairColor": "Brown",
             "age": 42,
             "pets": [
-                "Dog1",
-                "Dog2"
+                "Mouse",
+                "Dragon"
             ],
             "isMarried": true
         }
